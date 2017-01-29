@@ -1,0 +1,17 @@
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+
+### Node ###
+npm-debug.log*
+
+# Dependency directories
+node_modules
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Private files
+auth-headers.json
